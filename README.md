@@ -7,3 +7,4 @@
 Play with colors.  Change the colors in this index.html file.
 
 Use this link as a resource (https://www.w3schools.com/colors/colors_names.asp)
+#00ffff
